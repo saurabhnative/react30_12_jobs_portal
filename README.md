@@ -10,6 +10,8 @@ Build a jobs portal using react and node.js
 ### Learnings:
 Learn how to send data to node server and get data in return
 
+### Demo  
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1603685698/Blogimages/Untitled_u1c1ct.gif" />  
 ## Available Scripts
 In the project directory, you can run:
 
